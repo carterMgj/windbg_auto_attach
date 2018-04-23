@@ -1,0 +1,17 @@
+[common_config]
+sleep_time=3
+
+[windbg_info]
+windbg_path="C:\Program Files\Debugging Tools for Windows (x86)\windbg.exe"
+
+[forcevision]
+process_name= "forcevision.exe"
+process_path= "E:\\forcevision.exe"
+
+[kmplayer]
+process_name= "KMPlayer.exe"
+process_path= "C:\\KMPlayer\\KMPlayer.exe"
+
+[selected_session]
+session = kmplayer
+
